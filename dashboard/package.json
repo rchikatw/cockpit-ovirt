@@ -33,9 +33,9 @@
     "patternfly": "^3.59.3",
     "react": "~16.4.0",
     "react-dom": "~16.4.0",
-    "react-router": "^5.2.0",
+    "react-router": "^6.0.0",
     "react-router-config": "^5.1.1",
-    "react-router-dom": "^5.2.0",
+    "react-router-dom": "^6.0.0",
     "uuid": "^3.4.0"
   },
   "devDependencies": {
